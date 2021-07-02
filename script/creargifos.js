@@ -19,7 +19,7 @@
 
 // */
 
-apiKey = "QEiNwRIV3GcWQ83yvX6IVcIAST0hxr1n";
+apiKey = "9q0Co8y92A1puokhTuMaeKeO3Y5bsveq";
 
 let btnComenzar = document.getElementById("btn-creargifo-comenzar");
 let btnGrabar = document.getElementById("btn-creargifo-grabar");
